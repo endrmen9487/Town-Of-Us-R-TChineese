@@ -1,4 +1,4 @@
-## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
+## *此為TownOfUs的繁體中文翻譯 翻譯不一定百分百準確 且要如何翻譯完全取決於我.*
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
