@@ -58,7 +58,7 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 - [Bait](#bait)
 - [Blind](#blind)
 - [Diseased](#diseased)
-- [Multitasker](#multitasker)
+- [偷窺者](#multitasker)
 - [Torch](#torch)
 - [Button Barry](#button-barry)
 - [Flash](#flash)
@@ -66,7 +66,7 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 - [Radar](#radar)
 - [Lovers](#lovers)
 - [Sleuth](#sleuth)
-- [Tiebreaker](#tiebreaker)
+- [關鍵人物](#tiebreaker)
 - [Disperser](#disperser)
 - [Double Shot](#double-shot)
 - [Underdog](#underdog)
@@ -1407,9 +1407,9 @@ Killing the Diseased triples the killer's Kill cooldown.
 | Kill Multiplier | How much the Kill Cooldown of the Impostor is increased by | Multiplier | 3x |
 
 -----------------------
-## Multitasker
-### **Applied to: Crewmates**
-The Multitasker's tasks are transparent.
+## 偷窺者
+### **船員附加職業**
+偷窺者的任務是透明的
 ### Game Options
 | Name | Description | Type | Default |
 |----------|:-------------:|:------:|:------:|
