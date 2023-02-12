@@ -14,35 +14,35 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 - [Haunter](#haunter)
 - [Investigator](#investigator)
 - [Mystic](#mystic)
-- [Seer](#seer)
-- [Snitch](#snitch)
-- [Spy](#spy)
-- [Tracker](#tracker)
-- [Trapper](#trapper)
-- [Sheriff](#sheriff)
+- [預言家](#seer)
+- [告密者](#snitch)
+- [特工](#spy)
+- [追蹤者](#tracker)
+- [陷阱師](#trapper)
+- [警長](#sheriff)
 - [Veteran](#veteran)
 - [Vigilante](#vigilante)
 - [Altruist](#altruist)
-- [Medic](#medic)
-- [Engineer](#engineer)
+- [法醫](#medic)
+- [工程師](#engineer)
 - [Imitator](#imitator)
-- [Mayor](#mayor)
+- [市長](#mayor)
 - [Medium](#medium)
-- [Swapper](#swapper)
+- [換票師](#swapper)
 - [Transporter](#transporter)
 
 **Neutral Roles**
 - [Amnesiac](#amnesiac)
-- [Guardian Angel](#guardian-angel)
+- [守護者](#guardian-angel)
 - [Survivor](#survivor)
 - [Executioner](#executioner)
-- [Jester](#jester)
+- [小丑](#jester)
 - [Phantom](#phantom)
-- [Arsonist](#arsonist)
+- [縱火犯](#arsonist)
 - [Juggernaut](#juggernaut)
 - [Plaguebearer](#plaguebearer)
 - [The Glitch](#the-glitch)
-- [Werewolf](#werewolf)
+- [狼人](#werewolf)
 
 **Impostor Roles**
 - [Escapist](#escapist)
@@ -57,27 +57,28 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 - [Undertaker](#undertaker)
 
 **Modifiers**
-- [Bait](#bait)
+- [誘餌](#bait)
 - [Blind](#blind)
 - [Diseased](#diseased)
 - [偷窺者](#multitasker)
-- [Torch](#torch)
-- [Button Barry](#button-barry)
-- [Flash](#flash)
-- [Giant](#giant)
+- [火炬](#torch)
+- [會議主持人](#button-barry)
+- [閃電俠](#flash)
+- [巨人](#giant)
 - [Radar](#radar)
-- [Lovers](#lovers)
+- [戀人](#lovers)
 - [Sleuth](#sleuth)
 - [關鍵人物](#tiebreaker)
 - [Disperser](#disperser)
-- [Double Shot](#double-shot)
-- [Underdog](#underdog)
+- [專業刺客](#double-shot)
+- [潛伏者](#underdog)
 
 -----------------------
 # Releases
-| Among Us - Version| Mod Version | Link |
+| Among Us 版本| 模組版本 | 下載連結 |
 |----------|-------------|-----------------|
-| 2022.12.14s & 2022.12.14e | v4.0.2 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v4.0.2/ToU.v4.0.2.zip) |
+| 2022.12.14s & 2022.12.14e | v4.0.2 | [Download](https://github.com/endrmen9487/Town-Of-Us-R-TChineese/releases/tag/v4.0.2) |
+|TOU v4.0.2以前的版本皆為英文版無漢化 以後也不會做
 | 2022.12.14s & 2022.12.14e | v4.0.1 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v4.0.1/ToU.v4.0.1.zip) |
 | 2022.12.14s & 2022.12.14e | v4.0.0 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v4.0.0/ToU.v4.0.0.zip) |
 | 2022.10.25s & 2022.10.25e | v3.4.0 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v3.4.0/ToU.v3.4.0.zip) |
