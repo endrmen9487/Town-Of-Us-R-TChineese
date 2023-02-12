@@ -78,7 +78,7 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 | Among Us 版本| 模組版本 | 下載連結 |
 |----------|-------------|-----------------|
 | 2022.12.14s & 2022.12.14e | v4.0.2 | [Download](https://github.com/endrmen9487/Town-Of-Us-R-TChineese/releases/tag/v4.0.2) |
-|TOU v4.0.2以前的版本皆為英文版無漢化 以後也不會做 | v4.0.2 | [Download](https://youtu.be/dQw4w9WgXcQ) |
+|TOU v4.0.2以前的版本皆為英文版無漢化 以後也不會做 | v9487 | [Download](https://youtu.be/dQw4w9WgXcQ) |
 | 2022.12.14s & 2022.12.14e | v4.0.1 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v4.0.1/ToU.v4.0.1.zip) |
 | 2022.12.14s & 2022.12.14e | v4.0.0 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v4.0.0/ToU.v4.0.0.zip) |
 | 2022.10.25s & 2022.10.25e | v3.4.0 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v3.4.0/ToU.v3.4.0.zip) |
