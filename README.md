@@ -59,7 +59,7 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 **Modifiers**
 - [誘餌](#bait)
 - [Blind](#blind)
-- [Diseased](#diseased)
+- [病人](#diseased)
 - [偷窺者](#multitasker)
 - [火炬](#torch)
 - [會議主持人](#button-barry)
