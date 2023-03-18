@@ -4,7 +4,6 @@
 
 如果有任何翻譯錯誤、不通順、翻譯前後不一(例如前面隱身人 後面隱身者 或者一下冷卻 一下冷卻時間) 以及錯字 *請務必告訴我*
 ![LOGO](./Images/TOU-logo.png)
-![Roles](./Images/Roles.png)
 
 An Among Us mod that adds a bunch of roles, modifiers and game settings
 
