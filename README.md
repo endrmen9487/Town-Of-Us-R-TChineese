@@ -5,78 +5,15 @@
 如果有任何翻譯錯誤、不通順、翻譯前後不一(例如前面隱身人 後面隱身者 或者一下冷卻 一下冷卻時間) 以及錯字 *請務必告訴我*
 ![LOGO](./Images/TOU-logo.png)
 
-An Among Us mod that adds a bunch of roles, modifiers and game settings
+一個為Among Us增加更多職業與設定的模組
 
 Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
-
-**Crewmate Roles**
-- [Detective](#detective)
-- [冤靈](#haunter)
-- [Investigator](#investigator)
-- [Mystic](#mystic)
-- [預言家](#seer)
-- [告密者](#snitch)
-- [特工](#spy)
-- [追蹤者](#tracker)
-- [陷阱師](#trapper)
-- [警長](#sheriff)
-- [老兵](#veteran)
-- [俠客](#vigilante)
-- [殉道者](#altruist)
-- [法醫](#medic)
-- [工程師](#engineer)
-- [效仿者](#imitator)
-- [市長](#mayor)
-- [Medium](#medium)
-- [換票師](#swapper)
-- [傳送師](#transporter)
-
-**Neutral Roles**
-- [失憶者](#amnesiac)
-- [守護者](#guardian-angel)
-- [倖存者r](#survivor)
-- [處刑者](#executioner)
-- [小丑](#jester)
-- [怨靈](#phantom)
-- [縱火犯](#arsonist)
-- [天啟](#juggernaut)
-- [瘟疫之源](#plaguebearer)
-- [小故障](#the-glitch)
-- [狼人](#werewolf)
-
-**Impostor Roles**
-- [Escapist](#escapist)
-- [Grenadier](#grenadier)
-- [Morphling](#morphling)
-- [Swooper](#swooper)
-- [Bomber](#bomber)
-- [Traitor](#traitor)
-- [Blackmailer](#blackmailer)
-- [Janitor](#janitor)
-- [Miner](#miner)
-- [Undertaker](#undertaker)
-
-**Modifiers**
-- [誘餌](#bait)
-- [Blind](#blind)
-- [病人](#diseased)
-- [偷窺者](#multitasker)
-- [火炬](#torch)
-- [會議主持人](#button-barry)
-- [閃電俠](#flash)
-- [巨人](#giant)
-- [Radar](#radar)
-- [戀人](#lovers)
-- [Sleuth](#sleuth)
-- [關鍵人物](#tiebreaker)
-- [Disperser](#disperser)
-- [專業刺客](#double-shot)
-- [潛伏者](#underdog)
 
 -----------------------
 # Releases
 | Among Us 版本| 模組版本 | 下載連結 |
 |----------|-------------|-----------------|
+|2023.2.28s| vx.x.x| [暫無更新](https://youtu.be/dQw4w9WgXcQ) |
 | 2022.12.14s & 2022.12.14e | v4.0.2 | [Download](https://github.com/endrmen9487/Town-Of-Us-R-TChineese/releases/tag/v4.0.2) |
 |TOU v4.0.2以前的版本皆為英文版無漢化 以後也不會做 | v9487 | [Download](https://youtu.be/dQw4w9WgXcQ) |
 | 2022.12.14s & 2022.12.14e | v4.0.1 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v4.0.1/ToU.v4.0.1.zip) |
