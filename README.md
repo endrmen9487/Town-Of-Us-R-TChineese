@@ -7,7 +7,7 @@
 
 一個為Among Us增加更多職業與設定的模組
 
-加入TownOfUs官方DC[Discord](https://discord.gg/ugyc4EVUYZ)
+加入TownOfUs官方[Discord](https://discord.gg/ugyc4EVUYZ)
 
 -----------------------
 # Releases
